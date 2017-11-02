@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ConsoleApp.Package</id>
+    <version>$version$</version>
+    <title>ConsoleApp Package</title>
+    <authors>Jasper Gilhuis</authors>
+    <owners>Jasper Gilhuis</owners>
+    <licenseUrl>http://jaspergilhuis.nl</licenseUrl>
+    <projectUrl>http://jaspergilhuis.nl</projectUrl>
+    <iconUrl>http://jaspergilhuis.nl</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package containing the ConsoleApp Core functionality</description>
+    <copyright>Copyright 2017</copyright>
+  </metadata>
+  <files>
+    <file src="bin/release/ConsoleApp.Package.dll" target="lib/net40" />
+  </files>
+</package>
